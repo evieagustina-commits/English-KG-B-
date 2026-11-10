@@ -1,0 +1,6 @@
+{
+  "name": "Phonics Pals: CVC Word Adventures",
+  "description": "An interactive, animated CVC phonics learning game for Kindergarten B featuring multi-sensory sound cues, letter-blending animations, and rewarding word games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
